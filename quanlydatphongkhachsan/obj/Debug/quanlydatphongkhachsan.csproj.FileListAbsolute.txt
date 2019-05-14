@@ -1,0 +1,564 @@
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\quanlydatphongkhachsan.exe
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\quanlydatphongkhachsan.pdb
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csprojAssemblyReference.cache
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.frmLogin.resources
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.frmQuanLy.resources
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.Properties.Resources.resources
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csproj.GenerateResource.cache
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.exe.licenses
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csproj.CoreCompileInputs.cache
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csproj.CopyComplete
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.exe
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.pdb
+C:\Users\Trang\Desktop\de tai lap trinh windown\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.frmDangki.resources
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\quanlydatphongkhachsan.exe
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\quanlydatphongkhachsan.pdb
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.frmLogin.resources
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.frmDangki.resources
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.frmQuanLy.resources
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.Properties.Resources.resources
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.exe.licenses
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csproj.CopyComplete
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.exe
+C:\Users\Dell\Desktop\quanlydatphongkhachsan\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.pdb
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\quanlydatphongkhachsan.exe
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\quanlydatphongkhachsan.pdb
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.frmLogin.resources
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.frmDangki.resources
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.frmQuanLy.resources
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.Properties.Resources.resources
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.exe.licenses
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.csproj.CopyComplete
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.exe
+C:\Users\Dell\Desktop\quanlydatphongkhachsan - Copy\quanlydatphongkhachsan\obj\Debug\quanlydatphongkhachsan.pdb
